@@ -10,6 +10,6 @@
 
 * ****
 
-### Contract me
+### Contact me
 
 * 📫Email: administrator@duolala.xyz
