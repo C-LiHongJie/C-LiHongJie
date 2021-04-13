@@ -12,4 +12,4 @@
 
 ### Contact me
 
-* 📫Email: administrator@duolala.xyz
+* 📫Email: <administrator@duolala.xyz>
